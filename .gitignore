@@ -1,0 +1,4 @@
+prod
+dist
+.cache
+node_modules
